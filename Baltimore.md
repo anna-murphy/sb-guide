@@ -22,35 +22,39 @@
 | **In**               | **Out**               |
 |----------------------|-----------------------|
 | 2 Stingerback Terror | 4 Burnout Bashtronaut |
-| 1 Shock              |                       |
 | 1 Cut Propulsion     |                       |
+| 1 Shock              |                       |
 
 *Play*
 
 | **In**               | **Out**               |
 |----------------------|-----------------------|
 | 2 Stingerback Terror | 4 Burnout Bashtronaut |
-| 1 Shock              | 1 Obliterating Bolt   |
-| 2 Magebane Lizard    |                       |
+| 2 Magebane Lizard    | 1 Obliterating Bolt   |
+| 1 Shock              |                       |
 
 ### Vivi Cauldron 
 
-| **In**                | **Out** |
-|-----------------------|---------|
-| 2 Magebane Lizard     |         |
-| 2 Vengeful Possession |         |
-| 1 Obliterating Bolt   |         |
-| 1 Cut Propulsion      |         |
-| 1 Fiery Annihilation  |         |
+| **In**                | **Out**                |
+|-----------------------|------------------------|
+| 2 Magebane Lizard     | 2 Burnout Bastronaut   |
+| 2 Vengeful Possession | 4 Burst Lightning\*    |
+| 1 Cut Propulsion      | 1 Shock                |
+| 1 Fiery Annihilation  |                        |
+| 1 Obliterating Bolt   |                        |
+
+\*Siding out Burst Lightning here is a little awkward. It's your best early game answer to Maurading Mako, but Mako is often sided out in this matchup.
+
+Willy Edel sides out Nova Helkite here -- while Helkite puts down a lot of pressure, it's stonewalled by opposing Riddlers fairly effectively. If they're feeling bad, cut Nova Helkites to keep in Burnout Bastronauts and Burst Lightnings. 
 
 ### Dimir Midrange
 
 | **In**                      | **Out**           |
 |-----------------------------|-------------------|
-| 1 Chandra, Sparkhunter      | 1 Shock           |
 | 1 Case of the Crimson Pulse | 3 Burst Lightning |
-| 1 Obliterating Bolt         |                   |
+| 1 Chandra, Sparkhunter      | 1 Shock           |
 | 1 Fiery Annihilation        |                   |
+| 1 Obliterating Bolt         |                   |
 
 *Maybe*
 
@@ -62,58 +66,63 @@ Screaming Nemesis is only Okay in this matchup. It's probably not correct to sid
 
 ### Control (UW / UWR / UWRB)
 
-| **In**                      | **Out**             |
-|-----------------------------|---------------------|
-| 3 Sunspine Lynx             | 1 Shock             |
-| 1 Chandra, Sparkhunter      | 1 Obliterating Bolt |
-| 1 Case of the Crimson Pulse | 3 Burst Lightning   |
-| 1 Fiery Annihilation*       | 1 Burst Lightning   |
+| **In**                       | **Out**                   |
+|------------------------------|---------------------------|
+| 3 Sunspine Lynx              | 3 - 4\* Burst Lightning   |
+| 1 Chandra, Sparkhunter       | 1 Obliterating Bolt       |
+| 1 Case of the Crimson Pulse  | 1 Shock                   |
+| 1 Fiery Annihilation\*       |                           |
 
-*If they're running Shiko / Beza, side out the last Burst Lightning for Fiery Annihilation. 
+\*If they're running Shiko / Beza, side out the last Burst Lightning for Fiery Annihilation. 
 
 ### Simic Midrange
 
-| **In** | **Out** |
-|--------|---------|
+| **In**              | **Out** |
+|---------------------|---------|
+| 3 Sunspine Lynx     |         |
+| 1 Obliterating Bolt |         |
 |        |         |
-|        |         |
-|        |         |
+
+Note to self: feeling weird about this one idk
 
 ### Superior Spiderman Combo
 
-| **In** | **Out** |
-|--------|---------|
-|        | 1 Shock |
-|        |         |
-|        |         |
+| **In**              | **Out**            |
+|---------------------|--------------------|
+| 3 Sunspine Lynx     | 3 Lightning Strike |
+| 1 Obliterating Bolt | 1 Shock            |
 
 ### Orzhov Pixie
 
-| **In**                      | **Out**                |
-|-----------------------------|------------------------|
-| 3 Sunspine Lynx             | 4 Razorkin Needlehead* |
-| 2 Magebane Lizard           | 4 Lightning Strike     |
-| 1 Case of the Crimson Pulse |                        |
-| 1 Fiery Annihilation        |                        |
-| 1 Obliterating Bolt         |                        |
+| **In**                      | **Out**                 |
+|-----------------------------|-------------------------|
+| 3 Sunspine Lynx             | 4 Razorkin Needlehead\* |
+| 2 Magebane Lizard           | 4 Lightning Strike      |
+| 1 Case of the Crimson Pulse |                         |
+| 1 Fiery Annihilation        |                         |
+| 1 Obliterating Bolt         |                         |
 
-*Willy Edel sides out Razorkin Needlehead. You end up +1 overall creatures post board, and the ETB of Sunspine is Powerful, but I wouldn't be surprised if this ends up feeling bad: the *matchup* is bad, so any sideboard configuration is just stemming the bleeding a little.
+\*Willy Edel sides out Razorkin Needlehead. You end up +1 overall creatures post board, and the ETB of Sunspine is Powerful, but I wouldn't be surprised if this ends up feeling bad: the *matchup* is bad, so any sideboard configuration is just stemming the bleeding a little.
 
 ### Selesnya Gearhulk															
 
-| **In** | **Out** |
-|--------|---------|
+| **In**              | **Out** |
+|---------------------|---------|
+| 1 Obliterating Bolt |         |
 |        |         |
 |        |         |
-|        |         |
+
+Note to self: I have no idea what past me decided on this one.
 
 ### Simic Omni / Kona
 
-| **In** | **Out** |
-|--------|---------|
-|        |         |
-|        |         |
-|        |         |
+| **In**               | **Out**             |
+|----------------------|---------------------|
+| 2 Magebane Lizard    | 2 Burst Lightning   |
+| 1 Fiery Annihilation | 1 Obliterating Bolt |
+| 1 Cut Propulsion     | 1 Shock             |
+
+You're heavily favoring in this matchup. Keeping Kona off the battlefield is good, so your instant speed interaction is key for removing Kona before your opponent can combo. Additionally, your opponent can't effectively combo through a Magebane Lizard, so sticking this forces them to have answers beyond just hitting the "I win" button.
 
 ### Weapons Manufacturing
 
