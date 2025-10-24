@@ -11,6 +11,8 @@
 - [Simic Omni / Kona](#simic-omni--kona)
 - [Weapons Manufacturing](#weapons-manufacturing)
 
+[**Decklist**](https://scryfall.com/@curunilauro/decks/9dc7e10f-ae66-448f-ac2d-b06fe5cd5813)
+
 ## Matchups 
 
 ### Mono Red Aggro (Mirror)
@@ -81,17 +83,21 @@ Screaming Nemesis is only Okay in this matchup. It's probably not correct to sid
 
 | **In** | **Out** |
 |--------|---------|
-|        |         |
+|        | 1 Shock |
 |        |         |
 |        |         |
 
 ### Orzhov Pixie
 
-| **In** | **Out** |
-|--------|---------|
-|        |         |
-|        |         |
-|        |         |
+| **In**                      | **Out**                |
+|-----------------------------|------------------------|
+| 3 Sunspine Lynx             | 4 Razorkin Needlehead* |
+| 2 Magebane Lizard           | 4 Lightning Strike     |
+| 1 Case of the Crimson Pulse |                        |
+| 1 Fiery Annihilation        |                        |
+| 1 Obliterating Bolt         |                        |
+
+*Willy Edel sides out Razorkin Needlehead. You end up +1 overall creatures post board, and the ETB of Sunspine is Powerful, but I wouldn't be surprised if this ends up feeling bad: the *matchup* is bad, so any sideboard configuration is just stemming the bleeding a little.
 
 ### Selesnya Gearhulk															
 
