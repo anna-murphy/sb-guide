@@ -51,10 +51,11 @@ Willy Edel sides out Nova Helkite here -- while Helkite puts down a lot of press
 
 | **In**                      | **Out**           |
 |-----------------------------|-------------------|
-| 1 Case of the Crimson Pulse | 3 Burst Lightning |
+| 1 Case of the Crimson Pulse | 4 Burst Lightning |
 | 1 Chandra, Sparkhunter      | 1 Shock           |
 | 1 Fiery Annihilation        |                   |
 | 1 Obliterating Bolt         |                   |
+| 1 Cut Propulsion            |                   |
 
 *Maybe*
 
@@ -77,13 +78,10 @@ Screaming Nemesis is only Okay in this matchup. It's probably not correct to sid
 
 ### Simic Midrange
 
-| **In**              | **Out** |
-|---------------------|---------|
-| 3 Sunspine Lynx     |         |
-| 1 Obliterating Bolt |         |
-|        |         |
-
-Note to self: feeling weird about this one idk
+| **In**               | **Out**               |
+|----------------------|-----------------------|
+| 3 Sunspine Lynx      | 2 Burnout Bashtronaut |
+| 1 Fiery Annihilation | 2 Lightning Strike    |
 
 ### Superior Spiderman Combo
 
@@ -106,13 +104,10 @@ Note to self: feeling weird about this one idk
 
 ### Selesnya Gearhulk															
 
-| **In**              | **Out** |
-|---------------------|---------|
-| 1 Obliterating Bolt |         |
-|        |         |
-|        |         |
-
-Note to self: I have no idea what past me decided on this one.
+| **In**              | **Out**               |
+|---------------------|-----------------------|
+| 3 Sunspine Lynx     | 2 Burnout Bashtronaut |
+| 1 Obliterating Bolt | 2 Lightning Strike    |
 
 ### Simic Omni / Kona
 
@@ -126,9 +121,9 @@ You're heavily favoring in this matchup. Keeping Kona off the battlefield is goo
 
 ### Weapons Manufacturing
 
-| **In** | **Out** |
-|--------|---------|
-|        |         |
-|        |         |
-|        |         |
+| **In**                      | **Out**           |
+|-----------------------------|-------------------|
+| 3 Sunspine Lynx             | 4 Burst Lightning |
+| 1 Chandra, Sparkhunter      | 1 Shock           |
+| 1 Case of the Crimson Pulse |                   |
 
